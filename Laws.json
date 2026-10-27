@@ -1,0 +1,453 @@
+[
+  {
+    "rule_id": "UK-LAW-001",
+    "jurisdiction": "UK",
+    "claim_type": "Actions founded on simple tort",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 2",
+    "description": "Time limit for actions founded on simple tort."
+  },
+  {
+    "rule_id": "UK-TORT-002",
+    "jurisdiction": "UK",
+    "claim_type": "Successive conversions and extinction of title of owner of converted goods",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 3",
+    "description": "Time limit for actions founded on successive conversions."
+  },
+  {
+    "rule_id": "UK-TORT-003",
+    "jurisdiction": "UK",
+    "claim_type": "Actions in respect of theft",
+    "period_value": null,
+    "period_unit": "none",
+    "is_statute_barred": false,
+    "citation": "Limitation Act 1980, s. 4(1)",
+    "description": "Right to bring an action in respect of theft is not subject to standard time limits."
+  },
+  {
+    "rule_id": "UK-TORT-004",
+    "jurisdiction": "UK",
+    "claim_type": "Conversion following good-faith purchase of stolen property",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 4(2)",
+    "description": "Runs from the date of good-faith purchase."
+  },
+  {
+    "rule_id": "UK-DEFAM-005",
+    "jurisdiction": "UK",
+    "claim_type": "Actions for defamation or malicious falsehood",
+    "period_value": 1,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 4A",
+    "description": "Time limit for libel, slander, or malicious falsehood."
+  },
+  {
+    "rule_id": "UK-CONT-006",
+    "jurisdiction": "UK",
+    "claim_type": "Actions founded on simple contract",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 5",
+    "description": "Time limit for actions founded on simple contract."
+  },
+  {
+    "rule_id": "UK-AWARD-007",
+    "jurisdiction": "UK",
+    "claim_type": "Actions to enforce arbitral awards",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 7",
+    "description": "Time limit for actions to enforce awards where submission is not by deed."
+  },
+  {
+    "rule_id": "UK-DEED-008",
+    "jurisdiction": "UK",
+    "claim_type": "Actions upon an instrument under seal (Deed)",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 8",
+    "description": "Time limit for actions on a specialty or deed."
+  },
+  {
+    "rule_id": "UK-STAT-009",
+    "jurisdiction": "UK",
+    "claim_type": "Actions for sums recoverable by statute",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 9",
+    "description": "Time limit to recover any sum recoverable by virtue of any enactment."
+  },
+  {
+    "rule_id": "UK-PI-010",
+    "jurisdiction": "UK",
+    "claim_type": "Personal injury actions",
+    "period_value": 3,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 11",
+    "description": "Special time limit for actions in respect of personal injuries."
+  },
+  {
+    "rule_id": "UK-LAND-011",
+    "jurisdiction": "UK",
+    "claim_type": "Action to recover land",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 15",
+    "description": "Time limit for bringing an action to recover any land."
+  },
+  {
+    "rule_id": "UK-JUDG-012",
+    "jurisdiction": "UK",
+    "claim_type": "Actions to enforce judgments",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1980, s. 24",
+    "description": "Action shall not be brought upon any judgment after 6 years from the date it became enforceable."
+  },
+  {
+    "rule_id": "US-CONT-013",
+    "jurisdiction": "USA",
+    "claim_type": "Breach of written contract",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 213(2)",
+    "description": "Time limit for an action upon a contractual obligation or liability."
+  },
+  {
+    "rule_id": "US-PROP-014",
+    "jurisdiction": "USA",
+    "claim_type": "Injury to property",
+    "period_value": 3,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 214(4)",
+    "description": "Time limit to recover damages for an injury to property."
+  },
+  {
+    "rule_id": "US-PI-015",
+    "jurisdiction": "USA",
+    "claim_type": "Personal injury general negligence",
+    "period_value": 3,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 214(5)",
+    "description": "Time limit to recover damages for personal injury."
+  },
+  {
+    "rule_id": "US-MALP-016",
+    "jurisdiction": "USA",
+    "claim_type": "Medical, dental, or podiatric malpractice",
+    "period_value": 2.5,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 214-a",
+    "description": "Two years and six months for medical malpractice claims."
+  },
+  {
+    "rule_id": "US-LEGAL-017",
+    "jurisdiction": "USA",
+    "claim_type": "Non-medical professional malpractice",
+    "period_value": 3,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 214(6)",
+    "description": "Three years regardless of whether theory is pleaded in contract or tort."
+  },
+  {
+    "rule_id": "US-FRAUD-018",
+    "jurisdiction": "USA",
+    "claim_type": "Action based upon fraud",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 213(8)",
+    "description": "Greater of 6 years from accrual or 2 years from reasonable discovery."
+  },
+  {
+    "rule_id": "US-DEFAM-019",
+    "jurisdiction": "USA",
+    "claim_type": "Libel, slander, or false imprisonment",
+    "period_value": 1,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 215(3)",
+    "description": "Time limit for intentional torts including defamation."
+  },
+  {
+    "rule_id": "US-JUDG-020",
+    "jurisdiction": "USA",
+    "claim_type": "Money judgment enforcement presumption",
+    "period_value": 20,
+    "period_unit": "years",
+    "citation": "N.Y. C.P.L.R. § 211(a)",
+    "description": "Presumption of payment of a money judgment after twenty years."
+  },
+  {
+    "rule_id": "US-SALES-021",
+    "jurisdiction": "USA",
+    "claim_type": "Breach of contract for sale under UCC",
+    "period_value": 4,
+    "period_unit": "years",
+    "citation": "U.C.C. § 2-725",
+    "description": "Action for breach of any contract for sale must be commenced within 4 years."
+  },
+  {
+    "rule_id": "US-COPYRIGHT-022",
+    "jurisdiction": "USA",
+    "claim_type": "Copyright infringement civil claims",
+    "period_value": 3,
+    "period_unit": "years",
+    "citation": "17 U.S.C. § 507(b)",
+    "description": "Civil action under copyright law must be commenced within 3 years."
+  },
+  {
+    "rule_id": "US-ANTITRUST-023",
+    "jurisdiction": "USA",
+    "claim_type": "Federal antitrust civil claims",
+    "period_value": 4,
+    "period_unit": "years",
+    "citation": "15 U.S.C. § 15b",
+    "description": "Action to enforce antitrust laws must be commenced within 4 years."
+  },
+  {
+    "rule_id": "US-FTCA-024",
+    "jurisdiction": "USA",
+    "claim_type": "Federal Tort Claims Act administrative presentation",
+    "period_value": 2,
+    "period_unit": "years",
+    "citation": "28 U.S.C. § 2401(b)",
+    "description": "Tort claims against the United States must be presented in writing within 2 years."
+  },
+  {
+    "rule_id": "US-DEATH-025",
+    "jurisdiction": "USA",
+    "claim_type": "Wrongful death civil claims",
+    "period_value": 2,
+    "period_unit": "years",
+    "citation": "N.Y. Est. Powers & Trusts Law § 5-4.1",
+    "description": "Two years from the date of death for wrongful death actions."
+  },
+  {
+    "rule_id": "NG-CONT-026",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions founded on simple contract",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 7(1)(a)",
+    "description": "Time limit for actions founded on simple contract."
+  },
+  {
+    "rule_id": "NG-TORT-027",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions founded on tort",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 7(1)(a)",
+    "description": "General limitation period for tort actions."
+  },
+  {
+    "rule_id": "NG-CHATTEL-028",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions to recover chattels or damages for conversion",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 8",
+    "description": "Time limit for actions to recover chattels."
+  },
+  {
+    "rule_id": "NG-ENACT-029",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions to recover sums recoverable by virtue of any enactment",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 11",
+    "description": "Time limit for statutory debt recovery."
+  },
+  {
+    "rule_id": "NG-DEED-030",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions upon an instrument under seal (Deed)",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 12",
+    "description": "Time limit for specialty or deed obligations."
+  },
+  {
+    "rule_id": "NG-LAND-031",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Action to recover land by individuals",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 16",
+    "description": "Time limit to bring an action to recover any land."
+  },
+  {
+    "rule_id": "NG-MORT-032",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions to recover principal sum secured by mortgage",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 19",
+    "description": "Time limit for mortgage debt recovery against land."
+  },
+  {
+    "rule_id": "NG-TRUST-033",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions in respect of trust property or breach of trust",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 22",
+    "description": "Time limit for claims against trustees."
+  },
+  {
+    "rule_id": "NG-PUBLIC-034",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Action against public officers for official acts",
+    "period_value": 3,
+    "period_unit": "months",
+    "citation": "Public Officers Protection Act 1955, s. 2(a)",
+    "description": "Action against any public officer must be commenced within 3 months of the act/default."
+  },
+  {
+    "rule_id": "NG-FRAUD-035",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Actions based on fraud or concealed right of action",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1966 (Cap 525 LFN), s. 33",
+    "description": "Time period begins to run from when fraud was or could be discovered."
+  },
+  {
+    "rule_id": "NG-JUDG-036",
+    "jurisdiction": "Nigeria",
+    "claim_type": "Action to enforce court judgments",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Sheriffs and Civil Process Act / Limitation precedents",
+    "description": "Time limit for enforcing judgment debts."
+  },
+  {
+    "rule_id": "AU-CONT-037",
+    "jurisdiction": "Australia",
+    "claim_type": "Actions founded on contract",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 14(1)(a)",
+    "description": "Time limit for a cause of action founded on contract."
+  },
+  {
+    "rule_id": "AU-TORT-038",
+    "jurisdiction": "Australia",
+    "claim_type": "Actions founded on tort",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 14(1)(b)",
+    "description": "General time limit for causes of action founded on tort."
+  },
+  {
+    "rule_id": "AU-DEFAM-039",
+    "jurisdiction": "Australia",
+    "claim_type": "Defamation civil claims",
+    "period_value": 1,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 14B",
+    "description": "Time limit for a cause of action for defamation."
+  },
+  {
+    "rule_id": "AU-DEED-040",
+    "jurisdiction": "Australia",
+    "claim_type": "Actions on a deed or specialty",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 16",
+    "description": "Action on a cause of action founded on a deed."
+  },
+  {
+    "rule_id": "AU-JUDG-041",
+    "jurisdiction": "Australia",
+    "claim_type": "Action on a court judgment",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 17",
+    "description": "Action on a cause of action on a judgment."
+  },
+  {
+    "rule_id": "AU-PI-042",
+    "jurisdiction": "Australia",
+    "claim_type": "Personal injury damages discoverability standard",
+    "period_value": 3,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 18A",
+    "description": "3 years from the date on which the cause of action is discoverable."
+  },
+  {
+    "rule_id": "AU-LAND-043",
+    "jurisdiction": "Australia",
+    "claim_type": "Action to recover land",
+    "period_value": 12,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 27",
+    "description": "Time limit for bringing an action to recover land."
+  },
+  {
+    "rule_id": "AU-TRUST-044",
+    "jurisdiction": "Australia",
+    "claim_type": "Breach of trust or recovery of trust property",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Limitation Act 1969 (NSW), s. 47",
+    "description": "Limitation period for claims involving breach of trust."
+  },
+  {
+    "rule_id": "AU-CORP-045",
+    "jurisdiction": "Australia",
+    "claim_type": "Corporations Act civil penalty proceedings",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Corporations Act 2001 (Cth), s. 1317K",
+    "description": "Proceedings for a declaration or order under civil penalty provisions."
+  },
+  {
+    "rule_id": "AU-CONSUMER-046",
+    "jurisdiction": "Australia",
+    "claim_type": "Australian Consumer Law misleading or deceptive conduct damages",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Competition and Consumer Act 2010 (Cth), s. 236",
+    "description": "Action for damages under consumer law provisions."
+  },
+  {
+    "rule_id": "AU-TAX-047",
+    "jurisdiction": "Australia",
+    "claim_type": "Taxation objection and review timeline",
+    "period_value": 4,
+    "period_unit": "years",
+    "citation": "Taxation Administration Act 1953 (Cth)",
+    "description": "Standard period for amending assessments and lodging income tax objections."
+  },
+  {
+    "rule_id": "AU-WORK-048",
+    "jurisdiction": "Australia",
+    "claim_type": "Workers compensation lump sum claim notice period",
+    "period_value": 6,
+    "period_unit": "months",
+    "citation": "Workplace Injury Management and Workers Compensation Act 1998 (NSW)",
+    "description": "Time limit for notice of injury in workers compensation matters."
+  },
+  {
+    "rule_id": "AU-BUILD-049",
+    "jurisdiction": "Australia",
+    "claim_type": "Building and construction statutory warranties (major defect)",
+    "period_value": 6,
+    "period_unit": "years",
+    "citation": "Home Building Act 1989 (NSW), s. 18E",
+    "description": "Time limit for breach of statutory warranties for residential building work involving major defects."
+  },
+  {
+    "rule_id": "AU-ENV-050",
+    "jurisdiction": "Australia",
+    "claim_type": "Environmental planning and assessment civil enforcement",
+    "period_value": 2,
+    "period_unit": "years",
+    "citation": "Environmental Planning and Assessment Act 1979 (NSW), s. 9.45",
+    "description": "Time limit to bring proceedings for a breach of planning laws from the time the offence was committed."
+  }
+]
